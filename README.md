@@ -18,7 +18,7 @@ As the Editor gets more advanced, I will make a whole documentation on how it wo
 The editor can be found in STTStuff in the Game folder. Its a simple editor where you can click to place objects on a grid. Then you can save it and name it map, and drop it into the Game folder and It will load the next time you play! Right click deletes or erases any square on the grid. We only have **Walls** and **Spawns** right now, sorry.
 
 # How the editor works
-The editor literally uses numbers and letters to represent the map. A very simple map could look like:
+The editor literally uses numbers and letters to represent the map. A very simple map could look like (Check Code for real example cause CBFDT):
 
 1111111111111
 1000000000001

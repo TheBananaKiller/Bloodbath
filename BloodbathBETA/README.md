@@ -1,3 +1,6 @@
+# Orignal Creator Readme, Not TheBananaKiller, or anyone at STT.
+
+
 # Ursina FPS
 A small FPS game made in Python 3 using the Ursina Engine.
 
